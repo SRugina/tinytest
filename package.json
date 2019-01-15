@@ -1,0 +1,14 @@
+{
+"name": "@srugina/tiny",
+"version": "1.0.0",
+"description": "test of publishing npm",
+"license": "MIT",
+"repository": "github:srugina/tinytest",
+"main": "index.js",
+"keywords": [
+"tiny",
+"npm",
+"package",
+"srugina"
+]
+}
